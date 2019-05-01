@@ -1,6 +1,6 @@
 # azurefunctionsandcsom
 Fun with Azure Functions and CSOM - Using Serverless to control SharePoint Online and beyond
-# For use in my SPS Baltimore 2018 Demo
+# For use in my Conference Demos
 - This Repo will have the PowerShell script used for creating the Self Signing Cert for use in the Azure AD Registered App as well as the Helper Function in Azure Function
 - This Repo will have the Azure Function Solution
 - This Repo will have the Deck used for the Session Delivered
